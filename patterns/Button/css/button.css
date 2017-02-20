@@ -31,7 +31,8 @@
   color: #FFF;
 }
 .btn-red {
-  background: #F16651;
+  /*background: #F16651;*/
+  background: pink;
   border-color: transparent;
   color: #FFF;
 }
